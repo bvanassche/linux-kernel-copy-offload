@@ -194,3 +194,4 @@ support](https://lore.kernel.org/linux-nvme/yq1blf3smcl.fsf@ca-mkp.ca.oracle.com
 * Selvakumar S, [[RFC PATCH v5 0/4] add simple copy
   support](https://lore.kernel.org/linux-nvme/20210219124517.79359-1-selvakuma.s1@samsung.com/),
   linux-nvme, 2021-02-19.
+* Mikulas Patocka, [Re: [PATCH 3/7] block: copy offload support infrastructure](https://lore.kernel.org/all/alpine.LRH.2.02.2108171630120.30363@file01.intranet.prod.int.rdu2.redhat.com/), linux-nvme, 2021-08-17.
